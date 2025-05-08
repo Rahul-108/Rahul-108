@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Rahul Pandey</h1>
 <p align="center">
-  <em>Software Engineer | Web Developer | Competitive Programmer</em>
+  <em>Software Engineer | Competitive Programmer</em>
 </p>
 
 ---
@@ -22,6 +22,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 **Frameworks & Tools**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -43,7 +44,7 @@
 - 🎯 Global Rank **4051/23K+** – *LeetCode Weekly Contest 348*  
 
 ---
-
+<!--
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahul-pandey0&show_icons=true&theme=tokyonight" alt="Rahul's GitHub stats"/>
@@ -53,7 +54,7 @@
 </p>
 
 ---
-
+-->
 ### 📫 Let's Connect
 <p>
   <a href="mailto:rahulpandeyrpk919@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -63,5 +64,5 @@
 ---
 
 <p align="center">
-  🧠 Keep Learning. Keep Building. Keep Growing.
+  🧠 Turning Ideas into Scalable Solutions
 </p>
