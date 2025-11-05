@@ -6,10 +6,10 @@
 ---
 
 ### 💻 About Me
-- 🔭 I’m currently working at **EDRA LABS** as a Software Engineer.
-- 👨‍💻 Previously interned twice at **Atlassian**.
-- 🌱 Currently working extensively on **Generative AI**.
-- 💬 Ask me about **MERN Stack, AWS, Redis, Celery, or Competitive Programming**.
+- 🔭 I’m currently working at **Interface AI** as a Software Engineer.
+- 👨‍💻 Previously worked at **Edra Labs** and interned twice at **Atlassian**.
+- 🌱 Currently working extensively on **Generative AI, Salesforce and Jira**.
+- 💬 Ask me about **MERN Stack, AWS, Redis, Celery, React, React Native, Nextjs, Golang or Competitive Programming**.
 - 📫 How to reach me: rahulpandeyrpk919@gmail.com
 
 ---
@@ -25,7 +25,7 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 **Frameworks & Tools**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-ready-61DAFB?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
@@ -38,13 +38,10 @@
 ---
 
 ### 🏆 Achievements
-- 🥉 Semifinalist (Top 100/3000+) – *Code to Care* hackathon by Philips  
-- 🔥 Global Rank **486/2500+** – *CodeChef November Cook-Off 2021*  
-- 🧠 Global Rank **3251/20K+** – *LeetCode Weekly Contest 347*  
-- 🎯 Global Rank **4051/23K+** – *LeetCode Weekly Contest 348*  
+- 🥇 Winner - *WTFuturexAI* hackathon organised by *Edra Labs*
+- 🥈 Semifinalist – *Code to Care* hackathon by *Philips* 
 
 ---
-<!--
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahul-pandey0&show_icons=true&theme=tokyonight" alt="Rahul's GitHub stats"/>
@@ -54,7 +51,7 @@
 </p>
 
 ---
--->
+
 ### 📫 Let's Connect
 <p>
   <a href="mailto:rahulpandeyrpk919@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
