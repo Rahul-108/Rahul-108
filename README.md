@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Rahul Pandey</h1>
 <p align="center">
-  <em>Software Engineer | Competitive Programmer</em>
+  <em>Software Engineer | AI Engineer | Competitive Programmer</em>
 </p>
 
 ---
@@ -10,6 +10,7 @@
 - 👨‍💻 Previously worked at **Edra Labs** and interned twice at **Atlassian**.
 - 🌱 Currently working extensively on **Generative AI, Salesforce and Jira**.
 - 💬 Ask me about **MERN Stack, AWS, Redis, Celery, React, React Native, Nextjs, Golang or Competitive Programming**.
+- 🌐 Portfolio Website: [byRahulPandey](https://byrahulpandey.com/)
 - 📫 How to reach me: rahulpandeyrpk919@gmail.com
 
 ---
