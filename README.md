@@ -44,6 +44,7 @@
 - 🥈 Semifinalist – *Code to Care* hackathon by *Philips* 
 
 ---
+<!--
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahul-pandey&show_icons=true&theme=tokyonight" alt="Rahul's GitHub stats"/>
@@ -51,7 +52,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-pandey&theme=tokyonight" alt="GitHub Streak"/>
 </p>
-
+-->
 ---
 
 ### 📫 Let's Connect
