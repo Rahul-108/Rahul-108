@@ -46,10 +46,10 @@
 ---
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul-pandey0&show_icons=true&theme=tokyonight" alt="Rahul's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rahul-pandey&show_icons=true&theme=tokyonight" alt="Rahul's GitHub stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-pandey0&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-pandey&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
