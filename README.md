@@ -6,8 +6,8 @@
 ---
 
 ### 💻 About Me
-- 🔭 I’m currently working at **Interface AI** as a Software Engineer.
-- 👨‍💻 Previously worked at **Edra Labs** and interned twice at **Atlassian**.
+- 🔭 I’m currently working at **Grapevine** as a Software Engineer.
+- 👨‍💻 Previously worked at **Edra Labs, Interface.ai** and interned twice at **Atlassian**.
 - 🌱 Currently working extensively on **Generative AI, Salesforce and Jira**.
 - 💬 Ask me about **MERN Stack, AWS, Redis, Celery, React, React Native, Nextjs, Golang or Competitive Programming**.
 - 🌐 Portfolio Website: [byRahulPandey](https://byrahulpandey.com/)
